@@ -1,6 +1,6 @@
 # Dockerfile to run R script
 
-FROM vladdsm/docker-r-h2o
+FROM 1edtrujillo1/docker-r-h2o
 
 MAINTAINER 'Vladimir Zhbanko' <vladimir.zhbanko@gmail.com>
 
